@@ -18,6 +18,8 @@
 
 ## Who am I ?
 
+<br>
+
 😎 Web developer, Electronics hobbyist
 
 📅 22 years
@@ -32,13 +34,18 @@
 
 </div>
 
-![My Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paakofiaidoo&langs_count=10&layout=compact&theme=radical)
+<br>
 
-![My github Stats](https://github-readme-stats.vercel.app/api?username=paakofiaidoo&show_icons=true&theme=radical)
+![My Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paakofiaidoo&langs_count=10&layout=compact&theme=radical&border_color=61dafb&border_radius=10)
+![My github Stats](https://github-readme-stats.vercel.app/api?username=paakofiaidoo&show_icons=true&theme=radical&border_color=61dafb&border_radius=10)
 
 <div>
 
+<br>
+
 ## What i am learning topics for this year ?
+
+<br>
 
 ### Java using [jmix platform](http://jmix.io/) => 30% [###_______]
 
@@ -50,13 +57,28 @@
 
 ### vscode extension => 0% [__________]
 
-### postgres => 0% [####______]
+### postgres => 40% [####______]
 
-### Advance programing concepts( algorithms, data structures, design patterns ,etc) => 0% [__________]
+### Advance programing concepts( algorithms, data structures, design patterns) => 0% [__________]
 
 ### Rust => 10% [#_________]
 
 ### typeScript => 10% [#_________]
 
+</div>
 
+<br><br>
+
+## Project I am working on for this year ?
+<br>
+
+<div >
+    <a href="https://github.com/paakofiaidoo/juki-svelte" title="juki-svelte">
+        <img align="left width=" 400" height="115"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=paakofiaidoo&repo=juki-svelte&theme=radical&border_color=61dafb&border_radius=10" />
+    </a>
+    <a href="https://github.com/paakofiaidoo/CI-CD-samples" title="CI-CD-samples">
+        <img align="right" width="400" height="115"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=paakofiaidoo&repo=CI-CD-samples&theme=radical&border_color=61dafb&border_radius=10" />
+    </a>
 </div>
