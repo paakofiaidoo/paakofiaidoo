@@ -2,11 +2,15 @@
 
 <img align="center" src="./img/hello.gif">
 
+<br>
+
 <h5 align="center">
-<a href="https://www.paakofiaidoo.tech" title="My Portfolio"><img width="100" src="img/logo.svg"></a>
-  <code>
-    <a href="https://www.linkedin.com/in/paakofiaidoo" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> </a>
-</code>
+    <code>
+        <a href="https://www.paakofiaidoo.tech" title="My Portfolio"><img width="100" src="img/logo.svg"></a>
+    </code>
+    <code>
+        <a href="https://www.linkedin.com/in/paakofiaidoo" title="LinkedIn Profile"><img width="25" src="img/linkedin.svg"> </a>
+    </code>
 </h5>
 <br>
 <div></div>
