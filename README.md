@@ -36,3 +36,27 @@
 
 ![My github Stats](https://github-readme-stats.vercel.app/api?username=paakofiaidoo&show_icons=true&theme=radical)
 
+<div>
+
+## What i am learning topics for this year ?
+
+### Java using [jmix platform](http://jmix.io/) => 30% [###_______]
+
+### Firebase => 10% [#_________]
+
+### WordPress => 0% [__________]
+
+### xstate => 20% [##________]
+
+### vscode extension => 0% [__________]
+
+### postgres => 0% [####______]
+
+### Advance programing concepts( algorithms, data structures, design patterns ,etc) => 0% [__________]
+
+### Rust => 10% [#_________]
+
+### typeScript => 10% [#_________]
+
+
+</div>
