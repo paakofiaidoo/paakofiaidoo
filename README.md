@@ -48,30 +48,30 @@
 <br>
 
 ```diff
-+ Java using [jmix platform](http://jmix.io/) =>                              30% [###=======]
++ Java using [jmix platform](http://jmix.io/) =>                                    30% [###=======]
 
-+ Firebase =>                                                                 10% [#=========]
++ Firebase =>                                                                       10% [#=========]
 
-+ WordPress =>                                                                0% [==========]
++ WordPress =>                                                                       0% [==========]
 
-+ xstate =>                                                                   20% [##========]
++ xstate =>                                                                         20% [##========]
 
-+ vscode extension =>                                                         0% [==========]
++ vscode extension =>                                                                0% [==========]
 
-+ postgres =>                                                                 40% [####======]
++ postgres =>                                                                       40% [####======]
 
-+ Advance programing concepts( algorithms, data structures, design patterns) => 0% [==========]
++ Advance programing concepts( algorithms, data structures, design patterns) =>      0% [==========]
 
-+ Rust =>                                                                     10% [#=========]
++ Rust =>                                                                           10% [#=========]
 
-+ TypeScript =>                                                               10% [#=========]
++ TypeScript =>                                                                     10% [#=========]
 ```
 
 </div>
 
 <br><br>
 
-## Project I am working on for this year ?
+## Projects I am working on for this year ?
 
 <br>
 
