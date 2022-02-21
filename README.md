@@ -47,29 +47,32 @@
 
 <br>
 
-### Java using [jmix platform](http://jmix.io/) => 30% [###_______]
+```diff
++ Java using [jmix platform](http://jmix.io/) =>                              30% [###=======]
 
-### Firebase => 10% [#_________]
++ Firebase =>                                                                 10% [#=========]
 
-### WordPress => 0% [__________]
++ WordPress =>                                                                0% [==========]
 
-### xstate => 20% [##________]
++ xstate =>                                                                   20% [##========]
 
-### vscode extension => 0% [__________]
++ vscode extension =>                                                         0% [==========]
 
-### postgres => 40% [####______]
++ postgres =>                                                                 40% [####======]
 
-### Advance programing concepts( algorithms, data structures, design patterns) => 0% [__________]
++ Advance programing concepts( algorithms, data structures, design patterns) => 0% [==========]
 
-### Rust => 10% [#_________]
++ Rust =>                                                                     10% [#=========]
 
-### typeScript => 10% [#_________]
++ TypeScript =>                                                               10% [#=========]
+```
 
 </div>
 
 <br><br>
 
 ## Project I am working on for this year ?
+
 <br>
 
 <div >
