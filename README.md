@@ -26,11 +26,11 @@
 
 ⚒️ I live for the pursuit of knowledge
 
-🏫 BSc Physics (electronics option) 4th year undergrad, KNUST, Kumasi, Ghana
+🏫 BSc Physics (Electronics Option) 4th Year Undergrad, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
 
 😍 Coding, Philosophy (Ontology and Epistemology), Movies & Animations, Gaming
 
-📨 contact me on paakofiaidoo17@gmail.com
+📨 contact me on paakofiaidoo17@gmail.com / click on my logo to see my portfolio for all my contacts
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <br>
 
-## What i am learning topics for this year ?
+## Learning topics for this year ?
 
 <br>
 
@@ -71,7 +71,7 @@
 
 <br><br>
 
-## Projects I am working on for this year ?
+## Open Source Projects I am working on for this year ?
 
 <br>
 
