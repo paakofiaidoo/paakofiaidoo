@@ -48,11 +48,11 @@
 <br>
 
 ```diff
-+ Java using [jmix platform](http://jmix.io/) =>                                    30% [###=======]
++ Java using [jmix platform](http://jmix.io/) =>                                    40% [####======]
 
-+ Firebase =>                                                                       10% [#=========]
++ Firebase =>                                                                       30% [###=======]
 
-+ WordPress =>                                                                       0% [==========]
++ WordPress =>                                                                       10% [#=========]
 
 + xstate =>                                                                         20% [##========]
 
