@@ -43,20 +43,12 @@
 
 <br>
 
-## Learning topics for this year ?
+<!-- ## Learning topics for this year ?
 
-<br>
+<br> -->
 
-```diff
-+ Java using [jmix platform](http://jmix.io/) =>                                    40% [####======]
-
-+ Firebase =>                                                                       30% [###=======]
-
-+ WordPress =>                                                                       10% [#=========]
-
-+ xstate =>                                                                         20% [##========]
-
-+ vscode extension =>                                                                0% [==========]
+<!-- ```diff
++ Java using [jmix platform](http://jmix.io/) =>                                    90% [#########=]
 
 + postgres =>                                                                       40% [####======]
 
@@ -65,23 +57,23 @@
 + Rust =>                                                                           10% [#=========]
 
 + TypeScript =>                                                                     10% [#=========]
-```
+``` -->
 
 </div>
 
 <br><br>
 
-## Open Source Projects I am working on for this year ?
+## Open Source Projects I am currently working on ?
 
 <br>
 
 <div >
-    <a href="https://github.com/paakofiaidoo/juki-svelte" title="juki-svelte">
-        <img align="left width=" 400" height="115"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=paakofiaidoo&repo=juki-svelte&theme=radical&border_color=61dafb&border_radius=10" />
-    </a>
-    <a href="https://github.com/paakofiaidoo/CI-CD-samples" title="CI-CD-samples">
+    <a href="https://github.com/paakofiaidoo/juki-builder" title="juki-builder">
         <img align="right" width="400" height="115"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=paakofiaidoo&repo=CI-CD-samples&theme=radical&border_color=61dafb&border_radius=10" />
+            src="https://github-readme-stats.vercel.app/api/pin/?username=paakofiaidoo&repo=juki-builder&theme=radical&border_color=61dafb&border_radius=10" />
+    </a>
+     <a href="https://github.com/paakofiaidoo/Browser-file-system-access-helper" title="browser-file-system-access-helper">
+        <img align="left" width=" 400" height="115"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=paakofiaidoo&repo=Browser-file-system-access-helper&theme=radical&border_color=61dafb&border_radius=10" />
     </a>
 </div>
