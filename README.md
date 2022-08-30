@@ -30,9 +30,9 @@
 
 💖 Coding, Philosophy (Ontology and Epistemology), Movies & Animations, Gaming
 
-📨 Contact me on `paakofiaidoo17@gmail.com` / [open my portfolio](paakofiadoo.tech) for all my contacts
+📨 Contact me on `paakofiaidoo17@gmail.com` / [open my portfolio](https://paakofiadoo.tech) for all my contacts
 
-**!! My vision now is simply to build tools to help other z!!**
+**!! My vision now is simply to build tools to help other !!**
 
 </div>
 
