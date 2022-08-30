@@ -20,7 +20,7 @@
 
 <br>
 
-😎 Web developer, Electronics hobbyist
+😎 Cloud DevOps Engineer | Full Stack Developer 
 
 📅 22 years
 
@@ -28,9 +28,11 @@
 
 🏫 BSc Physics (Electronics Option) 4th Year Undergrad, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
 
-😍 Coding, Philosophy (Ontology and Epistemology), Movies & Animations, Gaming
+💖 Coding, Philosophy (Ontology and Epistemology), Movies & Animations, Gaming
 
-📨 contact me on paakofiaidoo17@gmail.com / click on my logo to see my portfolio for all my contacts
+📨 Contact me on `paakofiaidoo17@gmail.com` / click on my logo to see my [portfolio](paakofiadoo.tech) for all my contacts
+
+**!! My vision now is simply to build tools to help other z!!**
 
 </div>
 
