@@ -22,15 +22,15 @@
 
 😎 Cloud DevOps Engineer | Full Stack Developer 
 
-📅 22 years
+📅 23 years
 
 ⚒️ I live for the pursuit of knowledge
 
-🏫 BSc Physics (Electronics Option) 4th Year Undergrad, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
+🏫 BSc Physics (Electronics Option) grad, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
 
 💖 Coding, Philosophy (Ontology and Epistemology), Movies & Animations, Gaming
 
-📨 Contact me on `paakofiaidoo17@gmail.com` / [open my portfolio](https://paakofiadoo.tech) for all my contacts
+📨 Contact me on `paakofiaidoo17@gmail.com` / [open my portfolio](https://paakofi.tech) for all my contacts
 
 **!! My vision now is simply to build tools to help other !!**
 
