@@ -20,7 +20,7 @@
 
 <br>
 
-😎 Cloud DevOps Engineer | Full Stack Developer 
+😎 Full Stack Developer | Cloud DevOps Engineer 
 
 📅 24 years
 
@@ -64,11 +64,11 @@
 </div>
 
 <br><br>
-
+<!--
 ## Open Source Projects I am currently working on ?
 
 <br>
-<!--
+
 <div >
     <a href="https://github.com/paakofiaidoo/juki-builder" title="juki-builder">
         <img align="right" width="400" height="115"
