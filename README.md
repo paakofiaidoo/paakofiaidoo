@@ -68,7 +68,7 @@
 ## Open Source Projects I am currently working on ?
 
 <br>
-
+<!--
 <div >
     <a href="https://github.com/paakofiaidoo/juki-builder" title="juki-builder">
         <img align="right" width="400" height="115"
@@ -79,3 +79,4 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=paakofiaidoo&repo=Browser-file-system-access-helper&theme=radical&border_color=61dafb&border_radius=10" />
     </a>
 </div>
+ -->
