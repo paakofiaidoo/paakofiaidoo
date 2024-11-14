@@ -4,7 +4,7 @@
 
 <br>
 
-<h5 align="center">
+<h5 align="center" style="display:flex;">
     <code>
         <a href="https://www.paakofiaidoo.tech" title="My Portfolio"><img width="100" src="img/logo.svg"></a>
     </code>
@@ -16,13 +16,13 @@
 
 <div>
 
-## Who am I ?
+## Who am I?
 
 <br>
 
 😎 Cloud DevOps Engineer | Full Stack Developer 
 
-📅 23 years
+📅 24 years
 
 ⚒️ I live for the pursuit of knowledge
 
