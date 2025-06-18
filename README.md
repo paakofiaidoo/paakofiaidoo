@@ -17,20 +17,16 @@
 
 <img align="center" src="./img/hello.gif">
 
-
-
-
-
 <br>
 
-<h5 align="center" style="display:flex;">
+<div>
     <code>
         <a href="https://www.paakofi.tech" title="My Portfolio"><img width="100" src="img/logo.svg"></a>
     </code>
     <code>
         <a href="https://www.linkedin.com/in/paakofiaidoo" title="LinkedIn Profile"><img width="25" src="img/linkedin.svg"> </a>
     </code>
-</h5>
+</div>
 <br>
 
 <div>
@@ -54,10 +50,7 @@
 📨 Contact me on `paakofiaidoo17@gmail.com` / [open my portfolio](https://paakofi.tech) for all my contacts
 
 </div>
-<br>
 
-[![GitHub Contribution Snake](https://raw.githubusercontent.com/paakofiaidoo/paakofiaidoo/output/github-contribution-grid-snake.svg)](https://github.com/paakofiaidoo)
-<br>
 <br>
 
 ![My Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paakofiaidoo&langs_count=10&layout=compact&theme=radical&border_color=61dafb&border_radius=10)
@@ -71,10 +64,6 @@
 
 <br>
 
-
-## Random Dev Wisdom 💡
-
-<br>
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=programming)
 
